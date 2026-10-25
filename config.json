@@ -1,0 +1,17 @@
+{
+  "source": "https://cctv-stream.bandaacehkota.info/memfs/0b8d9f6d-5b2c-4c6d-a645-438cdf8cdd18.m3u8",
+  "model_path": "yolov8n.pt",
+  "conf": 0.05,
+  "iou": 0.45,
+  "imgsz": 640,
+  "device": "",
+  "classes": [
+    2,
+    3,
+    5,
+    7
+  ],
+  "tracker": "bytetrack.yaml",
+  "max_display_width": 960,
+  "reconnect_delay": 2.0
+}
